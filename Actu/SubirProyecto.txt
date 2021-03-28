@@ -1,0 +1,16 @@
+# Github
+Red social de los programadores.
+
+1.- copiar la url del repositorio
+2. agregar un origen remoto
+
+4. git remote add origin url_repo
+5. git remote:  muestra origin
+6. git remote -v : fetch y push
+ls -al
+7. git push origin main
+8. git pull origin main
+
+Fusionar lo remoto con lo local
+git pull origin main --allow-unrelated-histories
+git push origin main
